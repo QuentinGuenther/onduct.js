@@ -1,0 +1,28 @@
+{
+  "name": "onduct.js",
+  "version": "0.1.0",
+  "description": "A in-memory graph data store made in pure JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuentinGuenther/onduct.js.git"
+  },
+  "keywords": [
+    "data",
+    "store",
+    "javascript"
+  ],
+  "author": "Quentin Guenther <qguenther@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuentinGuenther/onduct.js/issues"
+  },
+  "homepage": "https://github.com/QuentinGuenther/onduct.js#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
